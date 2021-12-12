@@ -1,0 +1,28 @@
+To know server IP address 
+If config
+To know Present working directory
+pwd
+To create a directory
+mkdir directoryname
+To delete a directory
+rmdir directory name 
+To enter into a Directory
+cd directoryname
+To go one step Backward
+cd ..
+To clear screen
+clear
+To go 2 or 3 or steps backward
+cd ../..
+cd ../../..
+to enter into the relative path/ relevant path
+cd /path of the directory
+To see the content in a directory
+ls
+long list
+ll
+
+list long list
+ls –
+To see sub directories in tree format
+tree
