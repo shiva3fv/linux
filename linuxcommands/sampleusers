@@ -1,0 +1,25 @@
+To see how many users present In our linux machine
+cat/etc/passwd
+To add a new user
+user add username 
+after giving the user name we have to set a password 
+for setting password
+passwd *****
+
+To see user name
+whoami
+to see user name ip address ets
+who am i
+to see how may users connected to a server 
+who
+to delete user
+user del username
+to switch user
+su –username 
+to exit from user
+exit
+To know how many processes running in our linux
+ps –ef
+
+to know how many hours worked
+uptime
