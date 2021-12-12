@@ -1,0 +1,20 @@
+ To create files
+we can create files by two commands 
+•	touch
+•	cat
+To create a empty file we use 
+touch filename
+to add some data in file while creating a file
+cat >filename
+after entering the data we want press
+CTRL+d to save the data
+
+To edit the file 
+vi filename
+to edit the saved file we can also use 
+cat >> filename
+
+To count the words in a file
+wc filename
+to count the lines 
+wc –l filename
