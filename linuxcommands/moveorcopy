@@ -1,0 +1,8 @@
+To copy 
+cp source destination
+To copy entire directory
+cp –r source destination
+To move
+mv source destination
+To rename a directory 
+mv oldname new name
