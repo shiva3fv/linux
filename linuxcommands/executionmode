@@ -1,0 +1,13 @@
+to save 
+:w
+to quit
+:q
+
+To save and quit 
+:wq
+to quit without saving 
+:q!
+To set numbers for each lines in execution mode
+set nu
+to delete numbers 
+set no nu
