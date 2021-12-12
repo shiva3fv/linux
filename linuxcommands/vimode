@@ -1,0 +1,33 @@
+esc i : Insert mode
+esc    : command line mode
+dd   : delete
+ndd  : delete no of lines
+yy   : copy
+nyy  : to copy no of lines
+p   : paste
+dw  : delete a word
+ndw  : delete a no of words
+x    : char
+G  : Capital G is used to bting couser down (ground)
+H  : Capital H is used to bring couser top (head)
+$  : To bring courser end of the line
+o : to add a new line below the courser
+O :  Capital O is used to add a new line above the courser
+r : to replace a singe word
+R : to replace no of words
+a – append
+  
+Execution mode :
+to save 
+:w
+to quit
+:q
+
+To save and quit 
+:wq
+to quit without saving 
+:q!
+To set numbers for each lines in execution mode
+set nu
+to delete numbers 
+set no nu
